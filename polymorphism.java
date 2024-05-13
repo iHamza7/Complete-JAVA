@@ -8,7 +8,7 @@ class A {
 class B extends A {
     @Override
     public void show() {
-        System.out.println("in a B show meth");
+        System.out.println("in a B show metho");
         super.show();
     }
 
