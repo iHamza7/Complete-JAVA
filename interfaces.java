@@ -8,7 +8,7 @@ interface A {
 class B implements A {
 
     public void config() {
-        System.out.println("in a config");
+        System.out.println("in a show config");
 
     }
 
