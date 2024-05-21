@@ -13,7 +13,7 @@ class B implements A {
     }
 
     public void show() {
-        System.out.println("in a show meth");
+        System.out.println("in a show method");
 
     }
 
