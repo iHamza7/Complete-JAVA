@@ -9,6 +9,8 @@ enum Status {
 public class enumsand {
     public static void main(String[] args) {
 
+        Status[] ss = Status.values();
+
     }
 
 }
