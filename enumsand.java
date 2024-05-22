@@ -12,7 +12,7 @@ public class enumsand {
         Status[] ss = Status.values();
 
         for (Status status : ss) {
-            System.out.println(status + "  thsis values" + status.ordinal());
+            System.out.println(status + "  this is " + status.ordinal());
         }
     }
 
