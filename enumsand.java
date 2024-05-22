@@ -11,6 +11,9 @@ public class enumsand {
 
         Status[] ss = Status.values();
 
+        for (Status status : ss) {
+            System.out.println(status);
+        }
     }
 
 }
