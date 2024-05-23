@@ -5,6 +5,11 @@ interface A {
     void config();
 }
 
+// types of interface
+// 1) normal interface
+// 2) functional/SAM SAM => single abstract method
+// 3) marker [interface] => no methods its empty
+
 class B implements A {
 
     public void config() {
