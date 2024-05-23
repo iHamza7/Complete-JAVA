@@ -10,7 +10,7 @@ public class trycatch {
             System.out.println(result);
         } catch (Exception e) {
             System.out.println(
-                    "something t wrong jhcjjfdkjkddj");
+                    "something t wrong jhcjjfdkjkddkdlkfdlfj");
         }
 
     }
