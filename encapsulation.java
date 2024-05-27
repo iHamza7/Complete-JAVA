@@ -24,7 +24,7 @@ class Boy {
 public class encapsulation {
     public static void main(String[] args) {
         Boy b = new Boy();
-        b.setName("hamza 2 3 4 5 6");
+        b.setName("hamza 2 3 4 5 6 7");
         b.setAge(3);
         System.out.println(b.getAge() + " " + b.getName());
     }
