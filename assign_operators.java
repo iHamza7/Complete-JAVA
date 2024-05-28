@@ -4,7 +4,7 @@ public class assign_operators {
 
       switch (num) {
          case 1:
-            System.out.println("Monday 1");
+            System.out.println("Monday 1 2");
 
             break;
          case 2:
