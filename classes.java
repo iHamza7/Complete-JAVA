@@ -13,7 +13,7 @@ class Calculator {
 
 class Computer {
     public void playMusic() {
-        System.out.println("Music playing ");
+        System.out.println("Music playing 1 ");
     }
 
     public String getMeAPen(int cost) {
