@@ -5,7 +5,7 @@ interface A {
 class B implements A {
     @Override
     public void show() {
-        System.out.println("this is override 1 2 3 4 5 6 7 8");
+        System.out.println("this is override 1 2 3 4 5 6 7 8 9");
 
     }
 }
