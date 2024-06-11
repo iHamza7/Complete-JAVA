@@ -8,7 +8,7 @@ public class assign_operators {
 
             break;
          case 2:
-            System.out.println("Tuesday");
+            System.out.println("Tuesday 1");
             break;
          default:
             System.out.println("Enter valid Number");
