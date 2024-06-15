@@ -18,7 +18,7 @@ class B implements A {
     }
 
     public void show() {
-        System.out.println("in a show method 1");
+        System.out.println("in a show method 1 2");
 
     }
 
