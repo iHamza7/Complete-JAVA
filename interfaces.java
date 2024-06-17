@@ -13,7 +13,7 @@ interface A {
 class B implements A {
 
     public void config() {
-        System.out.println("in a show config  method 1 2 3 4 5 ");
+        System.out.println("in a show config  method 1 2 3 4 5 6 ");
 
     }
 
